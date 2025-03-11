@@ -37,3 +37,18 @@ pip install -r requirements.txt
 
 - In main.py the overlaytext() function has four parameters (check line 45 of main.py). The fourth parameter controls how high along the y axis the text should be placed. Adjust this value using trial and error (or any other method of your choice)
 
+
+Once all these are done, run the script
+
+```bash
+python3 main.py
+```
+output pdfs will be stored in the "output" folder. 
+Verify all details and you are good to go.
+
+populate the participants list with the required values and run the script again. 
+**NOTE**: remember to delete the output folder before running the script again to make sure there are no test pdfs in the folder
+
+That's all. Enjoy certificate generating.
+
+Made with ❤️ and python.
