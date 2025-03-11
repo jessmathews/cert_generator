@@ -33,3 +33,7 @@ pip install -r requirements.txt
 
 - For initial testing use the "test_data.csv" and populate with a few names of your choice (check line 29 of main.py)
 
+- Font files required should be kept in a folder named "fonts" in TrueType(.ttf) format. (check line 16 of main.py)
+
+- In main.py the overlaytext() function has four parameters (check line 45 of main.py). The fourth parameter controls how high along the y axis the text should be placed. Adjust this value using trial and error (or any other method of your choice)
+
