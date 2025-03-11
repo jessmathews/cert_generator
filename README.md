@@ -27,3 +27,9 @@ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
+## Running of the script
+
+- A template file in pdf format should be put in a folder named "template" in the cert_generator directory
+
+- For initial testing use the "test_data.csv" and populate with a few names of your choice (check line 29 of main.py)
+
